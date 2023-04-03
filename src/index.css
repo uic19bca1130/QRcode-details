@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.qr-code-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: none;
+  border-bottom: 1px solid gray;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+}
